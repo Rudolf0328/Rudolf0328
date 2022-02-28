@@ -1,6 +1,6 @@
 # 🐸 WELCOME 🐸
 ## 👩‍💻 About Me
-- I'm interested in Backend
+- I'm interested in Backend.
 ## 🛠 Tech Stack
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
